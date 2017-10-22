@@ -1,0 +1,7 @@
+vid= cv2.VideoCapture(0)
+time.sleep(2)
+b=vid.read()[1]
+cv2.namedWindow("a") 
+cv2.imshow("a",b)
+cv2.waitKey(0)
+cv2.destroyAllWindows()

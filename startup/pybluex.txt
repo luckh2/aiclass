@@ -1,0 +1,11 @@
+>>> a = "AB:A4:95:56:34:02"
+>>> sock = bluetooth.BluetoothSocket(bluetooth.RFCOMM)
+>>> sock.connect((a,1))
+
+>>> sock.send("101X")
+4
+>>> data = sock.recv(12)
+
+>>> print 'received [%s]'%data
+
+>>> sock.close()
