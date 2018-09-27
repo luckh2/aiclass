@@ -7,7 +7,9 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 ### Class PPT
 [Part I AI Intro & Agent Building]
 
-- [About the class](https://github.com/luckh2/aiclass/raw/master/ppt/AI.pptx)
+- [About the class](https://github.com/luckh2/aiclass/raw/master/ppt/AI2.pptx)
+- [AI Reasoning](https://github.com/luckh2/aiclass/raw/master/ppt/reasoning.pptx)
+- [AI Search](https://github.com/luckh2/aiclass/raw/master/ppt/search.pptx)
 - [Arduino Basics](https://github.com/luckh2/aiclass/raw/master/ppt/Arduino.pptx)
 - [Aicar Building](https://github.com/luckh2/aiclass/raw/master/ppt/Aicar.pptx)
 
