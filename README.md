@@ -10,7 +10,7 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 - [About the class](https://github.com/luckh2/aiclass/raw/master/ppt/AI2.pptx)
 - [AI Reasoning](https://github.com/luckh2/aiclass/raw/master/ppt/reasoning.pptx)
 - [AI Search (DFS, BFS, Branch&Bound, A*)](https://github.com/luckh2/aiclass/raw/master/ppt/search.pptx)
-- [AI Search (Minimax, $\alpha$-$\beta$ Pruning)](https://github.com/luckh2/aiclass/raw/master/ppt/search2.pptx)
+- [AI Search (Minimax, Alpha-Beta Pruning)](https://github.com/luckh2/aiclass/raw/master/ppt/search2.pptx)
 - [Arduino Basics](https://github.com/luckh2/aiclass/raw/master/ppt/Arduino.pptx)
 - [Aicar Building](https://github.com/luckh2/aiclass/raw/master/ppt/Aicar.pptx)
 
